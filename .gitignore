@@ -1,0 +1,1 @@
+A Computer Vision project that detects personal protective equipment (PPE) like helmets and vests on construction-site workers in input video, annotates the frames, raises visual/audio alerts for missing PPE, and exports an annotated video and per-frame summary CSV
